@@ -1,36 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1>Evently</h1>
 
-## Getting Started
+<p>Welcome to Evently, a cutting-edge web application built with React, Next.js, TypeScript, Stripe, Clerk, and MongoDB. Evently is designed to streamline event management, ticketing, and attendee registration, offering a seamless user experience with a focus on scalability, security, and efficiency.</p> 
 
-First, run the development server:
+<img src='https://github.com/lucas1337dev/e-commerce/blob/main/public/e-commerce-8c35e45.payloadcms.app_home.png' alt="Project Image" />
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<h2>Live Project</h2>
+<a href="https://evently-beta.vercel.app/">Click Here</a>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<h2>Features:</h2> 
+<ul> 
+  <li><h3>React and Next.js:</h3> Evently harnesses the power of React for building dynamic and interactive user interfaces. Next.js is employed for server-side rendering, enabling fast page loads and enhanced SEO capabilities.</li>
+  <li><h3>TypeScript:</h3> The entire codebase is written in TypeScript, providing static typing for improved code quality, better maintainability, and enhanced developer productivity.</li> 
+  <li><h3>Stripe Integration:</h3> Evently integrates with Stripe for secure and efficient payment processing. This allows event organizers to easily sell tickets, manage transactions, and track revenue.</li> 
+  <li><h3>Clerk:</h3> The application leverages Clerk for user authentication and management, ensuring a secure and seamless experience for event organizers and attendees alike.</li>
+  <li><h3>MongoDB:</h3> Evently utilizes MongoDB as its database solution, providing a scalable and flexible platform for storing event data, user information, and transaction details.</li>
+</ul>
