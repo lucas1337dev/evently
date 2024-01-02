@@ -2,7 +2,7 @@
 
 <p>Welcome to Evently, a cutting-edge web application built with React, Next.js, TypeScript, Stripe, Clerk, and MongoDB. Evently is designed to streamline event management, ticketing, and attendee registration, offering a seamless user experience with a focus on scalability, security, and efficiency.</p> 
 
-<img src='https://github.com/lucas1337dev/e-commerce/blob/main/public/e-commerce-8c35e45.payloadcms.app_home.png' alt="Project Image" />
+<img src='https://github.com/lucas1337dev/evently/blob/main/public/evently-beta.vercel.app_.png' alt="Project Image" />
 
 <h2>Live Project</h2>
 <a href="https://evently-beta.vercel.app/">Click Here</a>
